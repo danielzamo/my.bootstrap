@@ -1,0 +1,26 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.one{
+    /*border: dotted 1px red;*/
+    min-height: 50px;
+}
+
+nav .navbar-nav li a:link, a:link, a{
+    color: #005EB8 !important;
+    text-decoration: none !important;
+    font-weight: bold;
+}
+
+/* nav .navbar-nav li a:active, */
+/*nav .navbar-nav li a:focus, */
+/*nav .navbar-nav li a:visited,*/
+nav .navbar-nav li a:hover{
+    color: #A20067 !important;
+    text-decoration: none;
+/*    background-color: #A20067 !important; */
+/*    border-color: #A20067 !important; */
+    background-image: none !important;
+    border: 0 !important;
+}
